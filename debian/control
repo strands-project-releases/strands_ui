@@ -1,0 +1,12 @@
+Source: ros-indigo-strands-webserver
+Section: misc
+Priority: extra
+Maintainer: Nick Hawes <n.a.hawes@cs.bham.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-actionlib-msgs, ros-indigo-catkin, ros-indigo-rosbridge-server, ros-indigo-rospy, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-strands-webtools, ros-indigo-twitter-bootstrap
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-strands-webserver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-actionlib-msgs, ros-indigo-rosbridge-server, ros-indigo-rospy, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-strands-webtools, ros-indigo-twitter-bootstrap
+Description: The strands_webserver package
