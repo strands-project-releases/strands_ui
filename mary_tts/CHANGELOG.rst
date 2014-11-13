@@ -11,6 +11,11 @@ Changelog for package mary_tts
 * updated changelogs
 * Contributors: Jenkins
 
+0.0.8 (2014-11-13)
+------------------
+* Fixing a bug in the naming of the local en_US.
+* Contributors: Christian Dondrup
+
 0.0.7 (2014-11-13)
 ------------------
 * Merge branch 'hydro-devel' of http://github.com/strands-project/strands_ui into hydro-devel
