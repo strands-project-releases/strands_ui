@@ -11,6 +11,9 @@ Changelog for package mary_tts
 * updated changelogs
 * Contributors: Jenkins
 
+0.0.9 (2014-11-14)
+------------------
+
 0.0.8 (2014-11-13)
 ------------------
 * Fixing a bug in the naming of the local en_US.
