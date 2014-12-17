@@ -1,3 +1,27 @@
+## strands_ui (indigo) - 0.0.11-0
+
+The packages in the `strands_ui` repository were released into the `indigo` distro by running `/usr/bin/bloom-release strands_ui -t indigo -r indigo` on `Wed, 17 Dec 2014 14:58:18 -0000`
+
+These packages were released:
+- `mary_tts`
+- `strands_ui`
+- `strands_webserver`
+
+Version of package(s) in repository `strands_ui`:
+- upstream repository: https://github.com/strands-project/strands_ui.git
+- release repository: https://github.com/strands-project-releases/strands_ui.git
+- rosdistro version: `0.0.2-0`
+- old version: `0.0.2-0`
+- new version: `0.0.11-0`
+
+Versions of tools used:
+- bloom version: `0.5.14`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.10.33`
+- rosdistro version: `0.3.6`
+- vcstools version: `0.1.35`
+
+
 ## strands_ui (hydro) - 0.0.11-0
 
 The packages in the `strands_ui` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --non-interactive -t hydro -r hydro strands_ui` on `Sat, 22 Nov 2014 10:39:49 -0000`
