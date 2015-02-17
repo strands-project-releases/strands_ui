@@ -65,8 +65,8 @@ class PyGamePlayer:
 
         """
 
+        mixer.pre_init(frequency, size, channels)
         init()
-        mixer.init(frequency, size, channels)
         self.priority_map = {}
         self.min_vol = min_vol
         self.max_vol = max_vol
@@ -89,7 +89,8 @@ class PyGamePlayer:
         self.__announce_priority(0)
         self.cv.notify_all()
         self.cv.release()
-        self.stop_callback()
+        if self.stop_callback is not None:
+            self.stop_callback()
 
     def __set_volume(self):
         max_key, max_value = max(self.priority_map.iteritems(),
