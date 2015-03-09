@@ -2,6 +2,12 @@
 Changelog for package pygame_managed_player
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.15 (2015-03-09)
+-------------------
+* removed redundant dep
+* added rostest as dependencies
+* Contributors: Marc Hanheide
+
 0.0.12 (2015-02-16)
 -------------------
 * added python header
