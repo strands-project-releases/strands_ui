@@ -1,22 +1,22 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(music_player)
+project(sound_player_server)
 
 find_package(catkin REQUIRED COMPONENTS
-    genmsg
-    actionlib
-    actionlib_msgs
     rospy
+    std_msgs
     pygame_managed_player
     mongodb_media_server
+    message_generation
 )
 
 add_service_files(
     FILES
-    MusicPlayerService.srv
+    PlaySoundService.srv
 )
 
 generate_messages(
     DEPENDENCIES
+    std_msgs
 )
 
 catkin_package()
@@ -26,6 +26,6 @@ catkin_package()
 #############
 
 install(PROGRAMS
-  scripts/music_player_server.py
+  scripts/sound_player.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
