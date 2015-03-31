@@ -11,6 +11,9 @@ Changelog for package strands_ui
 * updated changelogs
 * Contributors: Jenkins
 
+0.0.19 (2015-03-31)
+-------------------
+
 0.0.18 (2015-03-28)
 -------------------
 * Add media server to metapackage. Closes `#71 <https://github.com/strands-project/strands_ui/issues/71>`_.
