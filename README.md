@@ -1,3 +1,31 @@
+## strands_ui (indigo) - 0.0.19-0
+
+The packages in the `strands_ui` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo strands_ui` on `Tue, 31 Mar 2015 11:36:36 -0000`
+
+These packages were released:
+- `mary_tts`
+- `mongodb_media_server`
+- `music_player`
+- `pygame_managed_player`
+- `sound_player_server`
+- `strands_ui`
+- `strands_webserver`
+
+Version of package(s) in repository `strands_ui`:
+- upstream repository: https://github.com/strands-project/strands_ui.git
+- release repository: https://github.com/strands-project-releases/strands_ui.git
+- rosdistro version: `0.0.18-0`
+- old version: `0.0.18-0`
+- new version: `0.0.19-0`
+
+Versions of tools used:
+- bloom version: `0.5.12`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## strands_ui (indigo) - 0.0.18-0
 
 The packages in the `strands_ui` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo strands_ui` on `Sat, 28 Mar 2015 15:47:01 -0000`
