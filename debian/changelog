@@ -1,0 +1,99 @@
+ros-indigo-strands-ui (0.0.19-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Tue, 31 Mar 2015 00:00:00 -0000
+
+ros-indigo-strands-ui (0.0.18-0trusty) trusty; urgency=high
+
+  * Add media server to metapackage. Closes #71 <https://github.com/strands-project/strands_ui/issues/71>.
+  * Contributors: Chris Burbridge
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sat, 28 Mar 2015 00:00:00 -0000
+
+ros-indigo-strands-ui (0.0.17-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Tue, 24 Mar 2015 00:00:00 -0000
+
+ros-indigo-strands-ui (0.0.15-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 09 Mar 2015 00:00:00 -0000
+
+ros-indigo-strands-ui (0.0.11-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sat, 22 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-ui (0.0.10-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 20 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-ui (0.0.9-0trusty) trusty; urgency=high
+
+  * adding machine tags to launch file
+  * Contributors: Jaime Pulido Fentanes
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Fri, 14 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-ui (0.0.8-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 13 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-ui (0.0.7-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 13 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-ui (0.0.6-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Wed, 12 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-ui (0.0.5-0trusty) trusty; urgency=high
+
+  * 0.0.4
+  * updated changelogs
+  * 0.0.3
+  * updated changelogs
+  * Contributors: Jenkins
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Tue, 11 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-ui (0.0.4-0trusty) trusty; urgency=high
+
+  * 0.0.3
+  * updated changelogs
+  * Contributors: Jenkins
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Tue, 11 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-ui (0.0.3-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Tue, 11 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-ui (0.0.2-0trusty) trusty; urgency=high
+
+  * Removed nav_help_s* packages from metapackage run_dependencies. They are now in the recovery behaviour package.
+  * Creating a "metapackage" containing a strands_ui.launch file
+    * The strands_ui package is not a metapackage in the pure sense of the word but has the same functionality + installs a launch file for mary and the webserver. Since metapackages are not allowed to install things it's a regualar package.
+    * The strands_ui.launch file launches mary and the webserver together
+    * The strands_ui package does not include the marathon gui because I didn't know if that will be released in the first place.
+    * The nav_help_* launch files now have a parameter that allows to start the webserver and mary together with the help nodes. This has just been added for backwards compatibility but the default value for the parameters is false to it to peoples attention that the structure has changed.
+  * Contributors: Christian Dondrup
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Fri, 31 Oct 2014 00:00:00 -0000
+
+
