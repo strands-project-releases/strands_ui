@@ -2,6 +2,12 @@
 Changelog for package mongodb_media_server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.19 (2015-03-31)
+-------------------
+* Change web interface page title.
+* Fix file set selection by name.
+* Contributors: Chris Burbridge
+
 0.0.18 (2015-03-28)
 -------------------
 * Merge pull request `#76 <https://github.com/strands-project/strands_ui/issues/76>`_ from cburbridge/hydro-devel
