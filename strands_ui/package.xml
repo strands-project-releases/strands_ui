@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>strands_ui</name>
-  <version>0.0.19</version>
+  <version>0.0.20</version>
   <description>The strands_ui metapackage</description>
 
   <maintainer email="cdondrup@lincoln.ac.uk">Christian Dondrup</maintainer>
@@ -20,6 +20,7 @@
   <run_depend>pygame_managed_player</run_depend>
   <run_depend>music_player</run_depend>
   <run_depend>mongodb_media_server</run_depend>
+  <run_depend>sound_player_server</run_depend>
 
   <export>
     <!--<metapackage/> -->
