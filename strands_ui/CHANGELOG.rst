@@ -11,6 +11,12 @@ Changelog for package strands_ui
 * updated changelogs
 * Contributors: Jenkins
 
+0.0.20 (2015-04-10)
+-------------------
+* Adding support to start mary on different machine
+* Adding sound player server to meta package
+* Contributors: Christian Dondrup
+
 0.0.19 (2015-03-31)
 -------------------
 
