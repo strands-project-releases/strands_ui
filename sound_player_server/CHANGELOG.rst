@@ -2,6 +2,9 @@
 Changelog for package sound_player_server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.22 (2015-04-22)
+-------------------
+
 0.0.21 (2015-04-15)
 -------------------
 * Namespaced sound_player_server service
