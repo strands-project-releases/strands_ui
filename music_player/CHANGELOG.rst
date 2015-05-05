@@ -2,6 +2,11 @@
 Changelog for package music_player
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.24 (2015-05-05)
+-------------------
+* Adding ability to resume paused song.
+* Contributors: Christian Dondrup
+
 0.0.23 (2015-04-27)
 -------------------
 
