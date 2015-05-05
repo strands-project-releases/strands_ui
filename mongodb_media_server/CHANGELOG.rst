@@ -2,6 +2,9 @@
 Changelog for package mongodb_media_server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.24 (2015-05-05)
+-------------------
+
 0.0.23 (2015-04-27)
 -------------------
 * Add content headers for video.
