@@ -11,6 +11,9 @@ Changelog for package mary_tts
 * updated changelogs
 * Contributors: Jenkins
 
+0.0.27 (2016-02-08)
+-------------------
+
 0.0.26 (2016-02-07)
 -------------------
 * added IP4 help
