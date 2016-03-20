@@ -2,6 +2,11 @@
 Changelog for package music_player
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.31 (2016-03-20)
+-------------------
+* When shuffle is set to true, the song list is shuffled in the beginning.
+* Contributors: Christian Dondrup
+
 0.0.30 (2016-03-19)
 -------------------
 
