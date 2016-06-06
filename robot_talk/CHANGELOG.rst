@@ -1,18 +1,29 @@
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package pygame_managed_player
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package robot_talk
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 0.0.32 (2016-06-06)
 -------------------
+* sorting out for release
+* Update README.md
+* add README
+* add robot_talk package
+* Contributors: Lars Kunze, Nick Hawes
+
+* sorting out for release
+* Update README.md
+* add README
+* add robot_talk package
+* Contributors: Lars Kunze, Nick Hawes
 
 0.0.31 (2016-03-20)
 -------------------
 
-0.0.30 (2016-03-19)
--------------------
+0.0.30 (2016-03-19 19:08)
+-------------------------
 
-0.0.29 (2016-03-19)
--------------------
+0.0.29 (2016-03-19 13:00)
+-------------------------
 
 0.0.28 (2016-03-01)
 -------------------
@@ -34,8 +45,6 @@ Changelog for package pygame_managed_player
 
 0.0.22 (2015-04-22)
 -------------------
-* add the `notify_all()` on stop event to fix `#89 <https://github.com/strands-project/strands_ui/issues/89>`_
-* Contributors: Marc Hanheide
 
 0.0.21 (2015-04-15)
 -------------------
@@ -45,8 +54,6 @@ Changelog for package pygame_managed_player
 
 0.0.19 (2015-03-31)
 -------------------
-* fixes `#81 <https://github.com/strands-project/strands_ui/issues/81>`_: add priorities announcements on pause and new stop() method
-* Contributors: Marc Hanheide
 
 0.0.18 (2015-03-28)
 -------------------
@@ -54,20 +61,20 @@ Changelog for package pygame_managed_player
 0.0.17 (2015-03-24)
 -------------------
 
-0.0.15 (2015-03-09)
+0.0.16 (2015-03-23)
 -------------------
-* removed redundant dep
-* added rostest as dependencies
-* Contributors: Marc Hanheide
+
+0.0.15 (2015-03-09 21:16)
+-------------------------
+
+0.0.14 (2015-03-09 16:37)
+-------------------------
+
+0.0.13 (2015-02-17)
+-------------------
 
 0.0.12 (2015-02-16)
 -------------------
-* added python header
-* removed launch file as it doesn't belong here.
-* all the meta-data for the new package and its deps
-* moved into new package
-* moved files to new package
-* Contributors: Marc Hanheide
 
 0.0.11 (2014-11-22)
 -------------------
