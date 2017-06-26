@@ -1,0 +1,221 @@
+ros-indigo-strands-control-ui (0.0.34-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 26 Jun 2017 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.33-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Wed, 11 Jan 2017 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.32-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 06 Jun 2016 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.31-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Sun, 20 Mar 2016 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.30-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Sat, 19 Mar 2016 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.29-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Sat, 19 Mar 2016 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.28-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 01 Mar 2016 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.27-4trusty) trusty; urgency=high
+
+  * fixed package.xml
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 08 Feb 2016 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.26-4trusty) trusty; urgency=high
+
+  * version fixed
+  * changed to throttled topic
+  * added task definitions for review
+  * several layout changes and fixes
+  * changed name
+  * made task configurable
+  * fixed protocol
+  * made mjpeg use host variable
+  * auto-scale map and layout changes
+  * minor fix for the review IPs
+  * tidied up, translated to English, and made it all configurable
+  * renaming done
+  * Add 'strands_control_ui/' from commit '82b3889a06c6e08d44ba8e2460288f1ce9b67e46'
+    git-subtree-dir: strands_control_ui
+    git-subtree-mainline: 9b4565d8840d276ac32f3d3253b91cef04dda040
+    git-subtree-split: 82b3889a06c6e08d44ba8e2460288f1ce9b67e46
+  * Contributors: Marc Hanheide
+  * version fixed
+  * changed to throttled topic
+  * added task definitions for review
+  * several layout changes and fixes
+  * changed name
+  * made task configurable
+  * fixed protocol
+  * made mjpeg use host variable
+  * auto-scale map and layout changes
+  * minor fix for the review IPs
+  * tidied up, translated to English, and made it all configurable
+  * renaming done
+  * Add 'strands_control_ui/' from commit '82b3889a06c6e08d44ba8e2460288f1ce9b67e46'
+    git-subtree-dir: strands_control_ui
+    git-subtree-mainline: 9b4565d8840d276ac32f3d3253b91cef04dda040
+    git-subtree-split: 82b3889a06c6e08d44ba8e2460288f1ce9b67e46
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Sun, 07 Feb 2016 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.25-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Sun, 10 May 2015 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.24-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 05 May 2015 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.23-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 27 Apr 2015 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.22-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Wed, 22 Apr 2015 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.21-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Wed, 15 Apr 2015 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.20-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Fri, 10 Apr 2015 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.19-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 31 Mar 2015 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.18-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Sat, 28 Mar 2015 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.17-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 24 Mar 2015 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.16-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 23 Mar 2015 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.15-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 09 Mar 2015 21:16:00 -0000
+
+ros-indigo-strands-control-ui (0.0.14-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 09 Mar 2015 16:37:00 -0000
+
+ros-indigo-strands-control-ui (0.0.13-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 17 Feb 2015 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.12-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 16 Feb 2015 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.11-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Sat, 22 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.10-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Thu, 20 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.9-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Fri, 14 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.8-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Thu, 13 Nov 2014 16:47:00 -0000
+
+ros-indigo-strands-control-ui (0.0.7-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Thu, 13 Nov 2014 15:58:00 -0000
+
+ros-indigo-strands-control-ui (0.0.6-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Wed, 12 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.5-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 11 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-control-ui (0.0.2-4trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Fri, 31 Oct 2014 00:00:00 -0000
+
+
