@@ -1,0 +1,191 @@
+ros-indigo-sound-player-server (0.0.34-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 26 Jun 2017 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.33-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Wed, 11 Jan 2017 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.32-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 06 Jun 2016 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.31-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sun, 20 Mar 2016 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.30-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sat, 19 Mar 2016 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.29-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sat, 19 Mar 2016 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.28-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 01 Mar 2016 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.27-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 08 Feb 2016 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.26-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sun, 07 Feb 2016 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.25-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sun, 10 May 2015 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.24-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 05 May 2015 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.23-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 27 Apr 2015 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.22-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Wed, 22 Apr 2015 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.21-5trusty) trusty; urgency=high
+
+  * Namespaced sound_player_server service
+  * Contributors: Nils Bore
+
+ -- Nils Bore <nilsbore@gmail.com>  Wed, 15 Apr 2015 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.20-5trusty) trusty; urgency=high
+
+  * Adding launch dir to install targets
+  * Contributors: Christian Dondrup
+
+ -- Nils Bore <nilsbore@gmail.com>  Fri, 10 Apr 2015 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.19-5trusty) trusty; urgency=high
+
+  * [sound_player_server] Enabling configuration of priority and volume
+  * Contributors: Christian Dondrup
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 31 Mar 2015 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.18-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sat, 28 Mar 2015 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.17-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 24 Mar 2015 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.16-5trusty) trusty; urgency=high
+
+  * Added the sound_player_server, check launch file for details
+  * Contributors: Nils Bore
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 23 Mar 2015 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.15-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 09 Mar 2015 21:16:00 -0000
+
+ros-indigo-sound-player-server (0.0.14-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 09 Mar 2015 16:37:00 -0000
+
+ros-indigo-sound-player-server (0.0.13-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 17 Feb 2015 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.12-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 16 Feb 2015 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.11-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sat, 22 Nov 2014 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.10-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 20 Nov 2014 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.9-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Fri, 14 Nov 2014 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.8-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 13 Nov 2014 16:47:00 -0000
+
+ros-indigo-sound-player-server (0.0.7-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 13 Nov 2014 15:58:00 -0000
+
+ros-indigo-sound-player-server (0.0.6-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Wed, 12 Nov 2014 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.5-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 11 Nov 2014 00:00:00 -0000
+
+ros-indigo-sound-player-server (0.0.2-5trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Fri, 31 Oct 2014 00:00:00 -0000
+
+
