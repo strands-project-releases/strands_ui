@@ -1,0 +1,12 @@
+Source: ros-kinetic-robot-talk
+Section: misc
+Priority: extra
+Maintainer: Lars Kunze <l.kunze@cs.bham.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-mary-tts, ros-kinetic-message-generation, ros-kinetic-mongodb-store, ros-kinetic-rospy
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-robot-talk
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-mary-tts, ros-kinetic-mongodb-store, ros-kinetic-rospy
+Description: The robot_talk package
