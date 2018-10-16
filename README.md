@@ -1,3 +1,34 @@
+## strands_ui (kinetic) - 0.2.0-0
+
+The packages in the `strands_ui` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic strands_ui` on `Tue, 16 Oct 2018 07:44:50 -0000`
+
+These packages were released:
+- `mary_tts`
+- `mongodb_media_server`
+- `music_player`
+- `pygame_managed_player`
+- `robot_talk`
+- `sound_player_server`
+- `strands_ui`
+- `strands_webserver`
+
+Version of package(s) in repository `strands_ui`:
+
+- upstream repository: https://github.com/strands-project/strands_ui.git
+- release repository: https://github.com/strands-project-releases/strands_ui.git
+- rosdistro version: `0.1.1-0`
+- old version: `0.1.1-0`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.7`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## strands_ui (kinetic) - 0.1.1-0
 
 The packages in the `strands_ui` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic strands_ui` on `Mon, 13 Aug 2018 13:33:36 -0000`
