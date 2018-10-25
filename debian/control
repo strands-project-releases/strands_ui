@@ -1,0 +1,12 @@
+Source: ros-kinetic-music-player
+Section: misc
+Priority: extra
+Maintainer: Nils Bore <nilsbore@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), python-pygame, ros-kinetic-actionlib, ros-kinetic-actionlib-msgs, ros-kinetic-catkin, ros-kinetic-mongodb-media-server, ros-kinetic-pygame-managed-player, ros-kinetic-rospy
+Homepage: https://github.com/strands-project/strands_deployment
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-music-player
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-actionlib, ros-kinetic-actionlib-msgs, ros-kinetic-mongodb-media-server, ros-kinetic-pygame-managed-player, ros-kinetic-rospy
+Description: The media player for AAF, working with general mp3 folders
