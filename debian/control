@@ -1,0 +1,12 @@
+Source: ros-melodic-mongodb-media-server
+Section: misc
+Priority: optional
+Maintainer: Chris Burbridge <cburbridge@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-mongodb-store, ros-melodic-rospy
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-mongodb-media-server
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, mongodb, python-pymongo, python-webpy, ros-melodic-mongodb-store, ros-melodic-rospy
+Description: The mongodb_media_server package provides a web based interface for storing and retrieving media files in a mongodb database.
