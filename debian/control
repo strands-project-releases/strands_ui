@@ -1,0 +1,12 @@
+Source: ros-melodic-mary-tts
+Section: misc
+Priority: optional
+Maintainer: Marc Hanheide <marc@hanheide.net>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-catkin, ros-melodic-message-generation, ros-melodic-roslib, ros-melodic-rospy, ros-melodic-std-msgs
+Homepage: https://github.com/strands-project/strands_ui
+Standards-Version: 3.9.2
+
+Package: ros-melodic-mary-tts
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, default-jdk, python-flask, ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-message-runtime, ros-melodic-pygame-managed-player, ros-melodic-roslib, ros-melodic-rospy, ros-melodic-std-msgs
+Description: The mary-tts package
