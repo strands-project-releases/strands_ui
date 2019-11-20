@@ -1,0 +1,206 @@
+ros-melodic-music-player (0.2.1-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Wed, 24 Oct 2018 23:00:00 -0000
+
+ros-melodic-music-player (0.2.0-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 15 Oct 2018 23:00:00 -0000
+
+ros-melodic-music-player (0.1.1-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sun, 12 Aug 2018 23:00:00 -0000
+
+ros-melodic-music-player (0.1.0-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 29 Jun 2017 23:00:00 -0000
+
+ros-melodic-music-player (0.0.34-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sun, 25 Jun 2017 23:00:00 -0000
+
+ros-melodic-music-player (0.0.33-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Wed, 11 Jan 2017 00:00:00 -0000
+
+ros-melodic-music-player (0.0.32-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sun, 05 Jun 2016 23:00:00 -0000
+
+ros-melodic-music-player (0.0.31-1bionic) bionic; urgency=high
+
+  * When shuffle is set to true, the song list is shuffled in the beginning.
+  * Contributors: Christian Dondrup
+
+ -- Nils Bore <nilsbore@gmail.com>  Sun, 20 Mar 2016 00:00:00 -0000
+
+ros-melodic-music-player (0.0.30-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sat, 19 Mar 2016 00:00:00 -0000
+
+ros-melodic-music-player (0.0.29-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sat, 19 Mar 2016 00:00:00 -0000
+
+ros-melodic-music-player (0.0.28-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 01 Mar 2016 00:00:00 -0000
+
+ros-melodic-music-player (0.0.27-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 08 Feb 2016 00:00:00 -0000
+
+ros-melodic-music-player (0.0.26-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sun, 07 Feb 2016 00:00:00 -0000
+
+ros-melodic-music-player (0.0.25-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sat, 09 May 2015 23:00:00 -0000
+
+ros-melodic-music-player (0.0.24-1bionic) bionic; urgency=high
+
+  * Adding ability to resume paused song.
+  * Contributors: Christian Dondrup
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 04 May 2015 23:00:00 -0000
+
+ros-melodic-music-player (0.0.23-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sun, 26 Apr 2015 23:00:00 -0000
+
+ros-melodic-music-player (0.0.22-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 21 Apr 2015 23:00:00 -0000
+
+ros-melodic-music-player (0.0.21-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 14 Apr 2015 23:00:00 -0000
+
+ros-melodic-music-player (0.0.20-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 09 Apr 2015 23:00:00 -0000
+
+ros-melodic-music-player (0.0.19-1bionic) bionic; urgency=high
+
+  * Adding parameter for audio priority to music_player
+  * Contributors: Christian Dondrup
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 30 Mar 2015 23:00:00 -0000
+
+ros-melodic-music-player (0.0.18-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sat, 28 Mar 2015 00:00:00 -0000
+
+ros-melodic-music-player (0.0.17-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 24 Mar 2015 00:00:00 -0000
+
+ros-melodic-music-player (0.0.15-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 09 Mar 2015 00:00:00 -0000
+
+ros-melodic-music-player (0.0.13-1bionic) bionic; urgency=high
+
+  * correct version number
+  * Fixing install targets and renaming artifacts.
+  * Forgot to rename the folder in the src directory. Now this is also called music_player. Thank you @marc-hanheide
+  * Renamed to music_player
+  * Contributors: Christian Dondrup, Marc Hanheide
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 17 Feb 2015 00:00:00 -0000
+
+ros-melodic-music-player (0.0.12-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 16 Feb 2015 00:00:00 -0000
+
+ros-melodic-music-player (0.0.11-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sat, 22 Nov 2014 00:00:00 -0000
+
+ros-melodic-music-player (0.0.10-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 20 Nov 2014 00:00:00 -0000
+
+ros-melodic-music-player (0.0.9-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Fri, 14 Nov 2014 00:00:00 -0000
+
+ros-melodic-music-player (0.0.8-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 13 Nov 2014 16:47:00 -0000
+
+ros-melodic-music-player (0.0.7-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 13 Nov 2014 15:58:00 -0000
+
+ros-melodic-music-player (0.0.6-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Wed, 12 Nov 2014 00:00:00 -0000
+
+ros-melodic-music-player (0.0.5-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 11 Nov 2014 00:00:00 -0000
+
+ros-melodic-music-player (0.0.2-1bionic) bionic; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Fri, 31 Oct 2014 00:00:00 -0000
+
+
