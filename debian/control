@@ -1,0 +1,12 @@
+Source: ros-melodic-sound-player-server
+Section: misc
+Priority: optional
+Maintainer: Nils Bore <nilsbore@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-message-generation, ros-melodic-mongodb-media-server, ros-melodic-pygame-managed-player, ros-melodic-rospy
+Homepage: https://github.com/strands-project/strands_deployment
+Standards-Version: 3.9.2
+
+Package: ros-melodic-sound-player-server
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-message-runtime, ros-melodic-mongodb-media-server, ros-melodic-pygame-managed-player, ros-melodic-rospy
+Description: The media player for AAF, working with general mp3 folders
